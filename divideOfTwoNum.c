@@ -8,7 +8,7 @@ int main(){
     // printf("%d",num1);
     
      int num2;
-    printf("Enter the number :");
+    printf("Enter the number : ");
     scanf("%d",&num2);
     // printf("%d",num2);
 
