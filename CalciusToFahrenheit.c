@@ -16,6 +16,7 @@ printf("Enter the temperature in Celsius: ");
 scanf("%f", &celsius);
 
 fahrenheitValue = (celsius * 9 / 5) + 32;
+
 printf("Temperature in Fahrenheit: %.2f\n", fahrenheitValue);
 
 return 0;
