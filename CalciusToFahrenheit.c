@@ -21,5 +21,4 @@ printf("Temperature in Fahrenheit: %.2f\n", fahrenheitValue);
 
 return 0;
 
-
 }
