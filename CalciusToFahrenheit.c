@@ -3,7 +3,6 @@
 int main() {
 float fahrenheit, celsius, fahrenheitValue;
 
-
 // Fahrenheit to Celsius
 printf("Enter the temperature in Fahrenheit: ");
 scanf("%f", &fahrenheit);
